@@ -1,9 +1,9 @@
 body {
-    font-family: "Roboto","Raleway" sans-serif;
-    background-color: #fff;
+    font-family: "Roboto",sans-serif;
+    background-color: #ffffff;
     font-style: normal;
     font-weight: 400;
-    color:#434455 ;
+    color:#434455;
 }
 .page nav {
     text-decoration: underline;
@@ -28,7 +28,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.blue {
+.logo-end{
     color: #2e2f42;
 }
 .address-link {
