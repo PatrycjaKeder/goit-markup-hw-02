@@ -60,7 +60,7 @@ body {
     color: #2e2f42;
 }
 .team-list {
-    background-color: #fff;
+    background-color: #ffffff;
 }
 .header {
     font-weight: 500;
@@ -78,7 +78,7 @@ body {
     background-color: #2e2f42;
 }
 .title {
-    color: #fff;
+    color: #ffffff;
     font-weight: bold;
     letter-spacing: 0.02em;
     size: 56px;
@@ -88,7 +88,7 @@ body {
 }
 .cursor {
     cursor: pointer;
-    color: #fff;
+    color: #ffffff;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.04em;
